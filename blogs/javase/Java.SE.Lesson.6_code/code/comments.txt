@@ -1,0 +1,37 @@
+LinkedList list = new LinkedList();
+
+list.add("aaa");
+
+Entry
+{
+	Entry previous;
+	Object element;
+	Entry next;
+}
+
+Entry entry = new Entry();
+entry.element = "aaa";
+
+list.add(entry);
+
+compare(new Integer(3), new Integer(2))
+
+
+
+aac
+aab
+
+java MapTest4 aa bb cc dd
+
+
+public class A
+{
+	public class B
+	{
+		
+	}
+}
+
+A a = new A();
+
+A.B b = new A.B();
